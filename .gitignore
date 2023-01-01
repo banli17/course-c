@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+*.exe
+*.pptx
+cmake-build-*
+*.o
+*.a
+*.dll
+*.dylib
+.idea
+*.iml
